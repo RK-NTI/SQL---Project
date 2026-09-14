@@ -7,3 +7,11 @@
 • Practical knowledge of MySQL, Relational Database Management, Joins, Subqueries, Window Functions, Aggregate Functions, and Data Analysis through hands-on SQL problem-solving.
 
 • Applied INNER JOINs across multiple tables to analyze relationships between employees, departments, salaries, and managers.
+
+# Key Insights:
+
+• Analyzed employee records across multiple related tables to understand employee distribution across departments and organizational structures.
+
+• Used subqueries and window functions to perform advanced analysis such as ranking employees by salary, identifying top-paid employees, and comparing employee salaries within departments.
+
+
