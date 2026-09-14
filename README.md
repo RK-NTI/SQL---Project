@@ -8,10 +8,10 @@
 
 • Applied INNER JOINs across multiple tables to analyze relationships between employees, departments, salaries, and managers.
 
-# Key Insights:
+# 🔑Key Insights:
 
 • Analyzed employee records across multiple related tables to understand employee distribution across departments and organizational structures.
 
 • Used subqueries and window functions to perform advanced analysis such as ranking employees by salary, identifying top-paid employees, and comparing employee salaries within departments.
 
-
+• Transformed raw employee and payroll data into meaningful information that can support HR decision-making, salary analysis, workforce planning, and organizational analysis.
