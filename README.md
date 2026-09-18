@@ -21,4 +21,19 @@
 
 • Transformed raw employee and payroll data into meaningful information that can support HR decision-making, salary analysis, workforce planning, and organizational analysis.
 
-• Solve 15 questions Advance label and basics label. 
+# 💡 Key Insights:
+• This project demonstrates how SQL can be used to transform raw employee and payroll records into actionable information. The analysis provides a practical understanding of employee distribution, organizational structure, salary patterns, departmental comparisons, and employee rankings.
+
+# 📁 Project Structure:
+Employee-Management-Salary-Analysis/
+│
+├── README.md
+├── database/
+│   └── employee_database.sql
+│
+├── queries/
+│   ├── basic_questions.sql
+│   └── advanced_questions.sql
+│
+└── results/
+    └── analysis_results.md
