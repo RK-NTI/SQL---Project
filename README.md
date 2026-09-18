@@ -8,7 +8,7 @@
 
 • Applied INNER JOINs across multiple tables to analyze relationships between employees, departments, salaries, and managers.
 
-# Project Overview
+# 🚀Project Overview
 
 # 🔑Key Insights:
 
