@@ -8,7 +8,10 @@
 
 • Applied INNER JOINs across multiple tables to analyze relationships between employees, departments, salaries, and managers.
 
-# 🚀Project Overview
+# 📌Project Overview
+• The Employee Management & Salary Analysis project is a hands-on SQL and MySQL project designed to analyze employee, department, manager, and salary data stored across multiple related tables.
+
+• The project focuses on solving real-world HR and payroll business problems using SQL queries, aggregate functions, joins, subqueries, and window functions. It demonstrates how relational employee data can be transformed into meaningful insights for salary analysis, workforce planning, departmental analysis, and HR decision-making.
 
 # 🔑Key Insights:
 
