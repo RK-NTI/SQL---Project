@@ -8,6 +8,8 @@
 
 • Applied INNER JOINs across multiple tables to analyze relationships between employees, departments, salaries, and managers.
 
+# Project Overview
+
 # 🔑Key Insights:
 
 • Analyzed employee records across multiple related tables to understand employee distribution across departments and organizational structures.
