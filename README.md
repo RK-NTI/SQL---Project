@@ -14,6 +14,7 @@
 • The project focuses on solving real-world HR and payroll business problems using SQL queries, aggregate functions, joins, subqueries, and window functions. It demonstrates how relational employee data can be transformed into meaningful insights for salary analysis, workforce planning, departmental analysis, and HR decision-making.
 
 # 🔑Key Insights:
+• This project demonstrates how SQL can be used to transform raw employee and payroll records into actionable information. The analysis provides a practical understanding of employee distribution, organizational structure, salary patterns, departmental comparisons, and employee rankings.
 
 • Analyzed employee records across multiple related tables to understand employee distribution across departments and organizational structures.
 
@@ -21,8 +22,6 @@
 
 • Transformed raw employee and payroll data into meaningful information that can support HR decision-making, salary analysis, workforce planning, and organizational analysis.
 
-# 💡 Key Insights:
-• This project demonstrates how SQL can be used to transform raw employee and payroll records into actionable information. The analysis provides a practical understanding of employee distribution, organizational structure, salary patterns, departmental comparisons, and employee rankings.
 
 # 📁 Project Structure:
 Employee-Management-Salary-Analysis/
