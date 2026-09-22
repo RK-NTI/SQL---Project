@@ -13,6 +13,8 @@
 
 • The project focuses on solving real-world HR and payroll business problems using SQL queries, aggregate functions, joins, subqueries, and window functions. It demonstrates how relational employee data can be transformed into meaningful insights for salary analysis, workforce planning, departmental analysis, and HR decision-making.
 
+# Project Purpose:
+
 # 🔑Key Insights:
 • This project demonstrates how SQL can be used to transform raw employee and payroll records into actionable information. The analysis provides a practical understanding of employee distribution, organizational structure, salary patterns, departmental comparisons, and employee rankings.
 
